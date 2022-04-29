@@ -6,6 +6,9 @@
 <br />
 <hr />
 
+
+<a href="https://ofcourse.kr/html-course/%ED%83%9C%EA%B7%B8"><h2>태그 사전</h2></a>
+
 <h2>
     개인 홈페이지 바로가기
 </h2>
@@ -15,6 +18,5 @@
 <?php for ($i = 0; $i < 24; $i++) { ?>
     <a target="_blank" href="https://deokjeonge.github.io/<?=$i?>"><?=$i?>번</a>
 <? } ?>
-</script>
 
 </html>
