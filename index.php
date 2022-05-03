@@ -14,9 +14,14 @@
 </h2>
 
 
-
+<h3>
 <?php for ($i = 0; $i < 24; $i++) { ?>
-    <a target="_blank" href="https://deokjeonge.github.io/<?=$i?>"><?=$i?>번</a>
+    <a style="margin:10px;" target="_blank" href="https://deokjeonge.github.io/<?=$i?>"><?=$i?>번</a>
 <? } ?>
+<br/>
+<?php for ($i = 0; $i < 24; $i++) { ?>
+    <a style="margin:10px;" target="_blank" href="https://deokjeonge.github.io/<?=$i?>"><?=$i?>번</a>
+<? } ?>
+</h3>
 
 </html>
