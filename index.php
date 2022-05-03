@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko" style="padding:20px">
 <h1>
     5학년 4반 코딩 동아리
 </h1>
