@@ -8,7 +8,8 @@
 
 
 <a href="https://ofcourse.kr/html-course/%ED%83%9C%EA%B7%B8"><h2>태그 사전</h2></a>
-
+<br/>
+<br/>
 <h2>
     개인 홈페이지 바로가기
 </h2>
@@ -25,8 +26,7 @@
 <h2>
     개인 홈페이지 바로가기
 </h2>
-<br/>
-<br/>
+
 
 <br/>
 <?php for ($i = 0; $i < 24; $i++) { ?>
