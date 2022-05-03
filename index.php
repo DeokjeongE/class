@@ -16,7 +16,7 @@
 
 
 <h3>
-<?php for ($i = 0; $i < 24; $i++) { ?>
+<?php for ($i = 1; $i < 25; $i++) { ?>
     <a style="margin:10px;" target="_blank" href="https://deokjeonge.github.io/<?=$i?>"><?=$i?>번</a>
 <? } ?>
 </h3>
@@ -29,7 +29,7 @@
 </h2>
 
 <h3>
-<?php for ($i = 0; $i < 24; $i++) { ?>
+<?php for ($i = 1; $i < 25; $i++) { ?>
     <a style="margin:10px;" target="_blank" href="https://deokjeonge.github.io/<?=$i?>/music.html"><?=$i?>번</a>
 <? } ?>
 </h3>
